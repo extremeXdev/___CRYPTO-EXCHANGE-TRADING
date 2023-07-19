@@ -1,0 +1,27 @@
+
+#################################
+ GLOBAL
+ #####
+
+#___ program according to try...Exceptions
+
+#___ Program overall functions
+#___ program Interfaces Functions
+#___ Program exchange-focused functions
+
+#___ Control and Test Functions
+#___ Control and Test Logic
+#___ Control and Test via 'Voyant' eyewitness
+
+#___ Check Code Performance
+#___ Check Code reliability
+#___ Check robustness
+
+
+
+##########################
+ SHUFFLE
+#####
+
+# code Left Coin Trader
+# Code Right Coin Trader
